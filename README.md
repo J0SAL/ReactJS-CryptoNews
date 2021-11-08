@@ -32,7 +32,11 @@ npm start
 To run this project, you will need to add the following environment variables to your .env file
 
 `REACT_APP_API_KEY= YOUR_API_KEY_HERE`
+
 `REACT_APP_COIN_API_HOST= YOUR_API_KEY_HERE`
+
 `REACT_APP_COIN_API_URL= YOUR_API_KEY_HERE`
+
 `REACT_APP_NEWS_API_HOST= YOUR_API_KEY_HERE`
+
 `REACT_APP_NEWS_API_URL= YOUR_API_KEY_HERE`
