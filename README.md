@@ -1,7 +1,7 @@
 # CryptoNews
 
-A Web Application to get all the crypto updates in one place. This Application provides updates with the trending Cryptocurremcies and the news related to cryptocurrencies.
-
+<p>A Web Application to get crypto updates all in one place. </p>
+<p>CryptoNews uses `<b>Coin Ranking API</b>` to fetch the Data about all cryptocurrencies and exchanges such as the total market cap, trading volume, number of coins and mush more. Also this Application uses `<b>Bing News Search API</b>` to get news and updates about the cryptocurrencies around the globe. The Application is built with `<b>ReactJS</b>` and various libraries like `<b>Router</b>`, `<b>Redux-toolkit</b>` for Routing and State Management and designed with `<b>Antd</b>` that contains a set of high quality components and demos for building rich, interactive user interfaces.</p>
 
 ## Demo
 
