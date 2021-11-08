@@ -1,6 +1,7 @@
 # CryptoNews
 
-A Web Application to get all the crypto updates in one place.
+A Web Application to get all the crypto updates in one place. This Application provides updates with the trending Cryptocurremcies and the news related to cryptocurrencies.
+
 
 ## Demo
 
