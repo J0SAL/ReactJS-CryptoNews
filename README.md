@@ -29,6 +29,8 @@ https://cryptonews-josal.netlify.app
 <code><img height="30" src="https://user-images.githubusercontent.com/52382282/140719016-d3ff2851-b440-4fce-9912-18dc2f86a9bb.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/52382282/140719097-ec31048f-bcc4-44fe-9305-f5fd4bff494a.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/52382282/140719231-05ea40b7-e6fc-440c-8adb-520d780b1819.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/52382282/140723727-af01dbb1-946c-4af9-9b5b-6f85099769e8.png"></code>
+
 
 
 ## Installation
