@@ -41,7 +41,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 # Clone this repository
 git clone https://github.com/J0SAL/ReactJS-CryptoNews.git
 # Go into the repository
-cd electron-quick-start
+cd ReactJS-CryptoNews
 # Install dependencies
 npm install
 # Run the app
